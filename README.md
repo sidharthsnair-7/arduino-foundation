@@ -38,7 +38,7 @@ Through this project, I learned:
 
 Add project images here.
 
-![Project Image](images/project.jpg)
+![Project Image](project-1.jpeg)
 
 ## 🚀 Future Improvements
 
