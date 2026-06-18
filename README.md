@@ -68,7 +68,7 @@ Add photos, circuit diagrams, and demonstration videos here.
 
 ### Radar System
 
-![Radar System](arduino-project2.jpeg)
+![Radar System](arduino-project2.jpg)
 
 ## 🚀 Future Projects
 
